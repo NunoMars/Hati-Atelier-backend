@@ -5,6 +5,7 @@ const mongoose = require('mongoose');
 const logger = require('./tools/logger');
 const PORT = process.env.PORT || 5000;
 
+
 mongoose.connect(process.env.MONGODB_URI);
 
 const app = express();
@@ -29,7 +30,7 @@ app.use('/book', bookRouter);
 
 
 
-app.listen(PORT, () => {
-    logger.log('info', `Server is running on port ${PORT} satrted in ${process.env.NODE_ENV} mode`);
-    console.log(`Server is running on port ${PORT}`);
+app.listen(PORT, '0.0.0.0', () => {
+    logger.log('info', `Server is running on port ${PORT} satrted!`);
+    console.log(`Server is running on port ${PORT} satrted!`);
 });

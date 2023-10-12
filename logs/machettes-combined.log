@@ -1,2 +1,9 @@
 {"level":"info","message":"Server is running on port 3000 satrted in undefined mode","service":"Machettes","timestamp":"2023-10-12 12:28:12"}
 {"level":"info","message":"Connection to MongoDB Established ","service":"Machettes","timestamp":"2023-10-12 12:28:12"}
+{"level":"info","message":"Connection to MongoDB Established ","service":"Machettes","timestamp":"2023-10-12 13:02:24"}
+{"level":"info","message":"Server is running on port 3000 satrted in undefined mode","service":"Machettes","timestamp":"2023-10-12 13:17:00"}
+{"level":"info","message":"Connection to MongoDB Established ","service":"Machettes","timestamp":"2023-10-12 13:17:00"}
+{"level":"info","message":"Server is running on port 3000 in 0.0.0.0 satrted in undefined mode","service":"Machettes","timestamp":"2023-10-12 13:56:57"}
+{"level":"info","message":"Connection to MongoDB Established ","service":"Machettes","timestamp":"2023-10-12 13:56:58"}
+{"level":"info","message":"Server is running on port 3000 in localhost satrted in undefined mode","service":"Machettes","timestamp":"2023-10-12 13:57:20"}
+{"level":"info","message":"Connection to MongoDB Established ","service":"Machettes","timestamp":"2023-10-12 13:57:20"}
