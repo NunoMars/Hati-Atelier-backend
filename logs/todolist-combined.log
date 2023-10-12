@@ -1,0 +1,22 @@
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-12 12:21:13"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-12 12:21:23"}
+{"level":"info","message":"Server is running on port 3000","service":"todo-list","timestamp":"2023-10-12 12:21:28"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-12 12:21:29"}
+{"level":"info","message":"Server is running on port 3000 satr","service":"todo-list","timestamp":"2023-10-12 12:21:35"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-12 12:21:35"}
+{"level":"info","message":"Server is running on port 3000 satrted in undefined mode","service":"todo-list","timestamp":"2023-10-12 12:21:39"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-12 12:21:39"}
+{"level":"info","message":"Server is running on port 3000 satrted in undefined mode","service":"todo-list","timestamp":"2023-10-12 12:23:21"}
+{"level":"info","message":"Connection to MongoDB Established on","service":"todo-list","timestamp":"2023-10-12 12:23:22"}
+{"level":"info","message":"Server is running on port 3000 satrted in undefined mode","service":"todo-list","timestamp":"2023-10-12 12:23:26"}
+{"level":"info","message":"Connection to MongoDB Established on mongodb+srv://nunoricardomars:2PyFzkO3smcTNzur@cluster0.om4urbh.mongodb.net/machette","service":"todo-list","timestamp":"2023-10-12 12:23:26"}
+{"level":"info","message":"Server is running on port 3000 satrted in undefined mode","service":"todo-list","timestamp":"2023-10-12 12:23:49"}
+{"level":"info","message":"Connection to MongoDB Established ","service":"todo-list","timestamp":"2023-10-12 12:23:49"}
+{"level":"info","message":"Server is running on port 3000 satrted in undefined mode","service":"Machettes","timestamp":"2023-10-12 12:27:45"}
+{"level":"info","message":"Connection to MongoDB Established ","service":"Machettes","timestamp":"2023-10-12 12:27:45"}
+{"level":"info","message":"Server is running on port 3000 satrted in undefined mode","service":"Machettes","timestamp":"2023-10-12 12:27:53"}
+{"level":"info","message":"Connection to MongoDB Established ","service":"Machettes","timestamp":"2023-10-12 12:27:53"}
+{"level":"info","message":"Server is running on port 3000 satrted in undefined mode","service":"Machettes","timestamp":"2023-10-12 12:28:00"}
+{"level":"info","message":"Connection to MongoDB Established ","service":"Machettes","timestamp":"2023-10-12 12:28:00"}
+{"level":"info","message":"Server is running on port 3000 satrted in undefined mode","service":"Machettes","timestamp":"2023-10-12 12:28:06"}
+{"level":"info","message":"Connection to MongoDB Established ","service":"Machettes","timestamp":"2023-10-12 12:28:06"}
